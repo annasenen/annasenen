@@ -27,4 +27,4 @@ I’m a career-changer who once worked on cruise ships — now diving into code 
 ---
 
 🔗 [Visit my LinkedIn](https://www.linkedin.com/in/anna-senen)  
-📫 Contact: your.email@example.com
+📫 Contact: senenanna@gmail.com
