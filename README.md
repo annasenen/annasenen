@@ -2,7 +2,7 @@
 
 🎓 HND Software Development student at Edinburgh College  
 🚀 Soon progressing to Napier University  
-💡 Freelance Developer at TechNest (real client projects)  
+💡 Freelance Developer at TechNest  
 🛠️ Currently learning Slim4, Django, React, and SQL  
 🌍 Based in South Queensferry, Scotland  
 
