@@ -16,8 +16,8 @@
 
 ### 🔧 Tech I’ve worked with:
 - **Languages**: HTML, CSS, JavaScript, PHP, Python, Java
-- **Frameworks**: Slim3, Slim4, Django, React.js
-- **Tools**: Git, GitHub, VS Code, IntelliJ IDEA, Bootstrap, PostgreSQL
+- **Frameworks**: Slim3 (intro), Slim4 (intro), Django (intro), React.js (intro)
+- **Tools**: Git, GitHub, VS Code, IntelliJ IDEA, Bootstrap
 
 ---
 
